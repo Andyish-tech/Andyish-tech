@@ -33,12 +33,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Andyish-tech&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Andyish-tech&theme=tokyonight" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=YOUR_USERNAME&theme=tokyo-night" width="100%"/>
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Andyish-techtheme=tokyo-night" width="100%"/>
 </p>
 
 ---
@@ -53,10 +53,6 @@
 
 ---
 
-## 💼 Portfolio
-Check out my portfolio: [yourwebsite.com](https://yourwebsite.com)
-
----
 
 ### 🧠 AI Developer | Web Wizard | Lifelong Learner
 
@@ -64,12 +60,4 @@ Check out my portfolio: [yourwebsite.com](https://yourwebsite.com)
 
 ---
 
-## 🌟 Tools Used
-- [Shields.io (for badges)](https://shields.io/)
-- [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)
-- [GitHub Streak Stats](https://github.com/denvercoder1/github-readme-streak-stats)
-- [Readme Typing SVG](https://github.com/DenverCoder1/readme-typing-svg)
-- [Activity Graph](https://github.com/Ashutosh00710/github-readme-activity-graph)
-
----
 
