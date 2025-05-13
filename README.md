@@ -20,7 +20,10 @@
 ## 🔥 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Andyish-tech&theme=tokyonight&hide_border=true" width="48%" />
+  <a href="https://gitstats.me/Andyish-tech">
+  <img src="https://img.shields.io/badge/Streak_Stats-Click_to_View-blueviolet?style=for-the-badge&logo=github" />
+</a>
+
   <img src="https://streak-stats.demolab.com?user=Andyish-tech&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
