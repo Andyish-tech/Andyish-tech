@@ -33,8 +33,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Andyish-tech&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Andyish-tech&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?Andyish-tech=Andyish-tech&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?Andyish-tech=Andyish-tech&theme=tokyonight" width="48%" />
 </p>
 
 <p align="center">
