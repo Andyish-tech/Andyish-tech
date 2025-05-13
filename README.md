@@ -20,7 +20,6 @@
 ## 🔥 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Andyish-tech&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
   <img src="https://streak-stats.demolab.com?user=Andyish-tech&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
@@ -39,8 +38,7 @@
 ---
 
 ## 📦 Projects & Focus Areas
-- 🚀 AI-powered Web Applications
-- 📚 E-Learning Platforms
+- 📚 Webstites
 - 🧩 Backend Systems (Learning Laravel)
 - 🎨 Beautiful Interfaces (UI/UX)
 - 🤝 Collaboration & Open Source
@@ -49,7 +47,6 @@
 
 ## 🧠 About Me
 - 💡 Always exploring tech for solving real problems
-- ✨ Building "Skills Challenges" for student empowerment
 - 🎯 Big believer in creative problem-solving & innovation
 
 ---
