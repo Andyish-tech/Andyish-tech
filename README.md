@@ -20,10 +20,7 @@
 ## 🔥 GitHub Stats & Activity
 
 <p align="center">
-  <a href="https://gitstats.me/Andyish-tech">
-  <img src="https://img.shields.io/badge/Streak_Stats-Click_to_View-blueviolet?style=for-the-badge&logo=github" />
-</a>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=Andyish-tech&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
   <img src="https://streak-stats.demolab.com?user=Andyish-tech&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
