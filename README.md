@@ -41,7 +41,7 @@
 
 ## 📦 Projects & Focus Areas
 - 📚 Webstites
-- 🧩 Backend Systems (Learning Laravel)
+- 🧩 Fullstack Systems
 - 🎨 Beautiful Interfaces (UI/UX)
 - 🤝 Collaboration & Open Source
 
@@ -56,8 +56,8 @@
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/your-link"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.instagram.com/andy.gada"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="https://rw.linkedin.com/in/ishimwe-andy-9146a2249"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
   <a href="https://twitter.com/your_handle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white"/></a>
   <a href="https://yourwebsite.com"><img src="https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel&logoColor=white"/></a>
 </p>
