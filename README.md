@@ -4,7 +4,7 @@
 <h3 align="center">Full stack Developer | UI/UX </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Turning+ideas+into+beautiful+products;Passionate+about+Web+and+AI;Learning+Laravel%2C+JavaScript%2C+React;Let%27s+Build+the+Future!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Turning+ideas+into+beautiful+products;Passionate+about+Web+and+AI;Analyst+and+Designer%2C+JavaScript%2C+React;Let%27s+Build+the+Future!" alt="Typing SVG" />
 </p>
 
 ---
