@@ -9,14 +9,14 @@
 
 ---
 
+
 ## 🏅 Achievements & Trophies
 
 <p align="center">
   <a href="https://github.com/Andyish-tech">
-    <img src="https://github-profile-trophy.vercel.app/?username=Andyish-tech&theme=monokai&no-bg=true&no-frame=true&column=7&margin-w=12&rank=S&media=svg" width="800" alt="Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Andyish-tech&theme=monokai&no-bg=true&no-frame=true&column=7&margin-w=12" width="800" alt="Trophies" />
   </a>
 </p>
-
 ---
 
 ## 🔥 GitHub Stats & Activity
