@@ -17,6 +17,7 @@
     <img src="https://github-profile-trophy-kappa.vercel.app/?username=Andyish-tech&theme=monokai&no-bg=true&no-frame=true&column=7&margin-w=12" width="800" alt="Trophies" />
   </a>
 </p>
+
 ---
 
 ## 🔥 GitHub Stats & Activity
@@ -25,7 +26,7 @@
   <tr>
     <td align="center">
       <a href="https://github.com/Andyish-tech">
-        <img src="https://github-readme-stats.vercel.app/api?username=Andyish-tech&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="400" alt="GitHub Stats" />
+        <img src="https://github-readme-stats-omega-red.vercel.app/api?username=Andyish-tech&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="400" alt="GitHub Stats" />
       </a>
     </td>
     <td align="center">
