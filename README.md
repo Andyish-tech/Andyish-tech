@@ -31,7 +31,7 @@
     </td>
     <td align="center">
       <a href="https://github.com/Andyish-tech">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Andyish-tech&theme=tokyonight&hide_border=true" width="400" alt="Streak Stats" />
+        <img src="https://streak-stats.demolab.com/?user=Andyish-tech&theme=tokyonight&hide_border=true" width="400" alt="Streak Stats" />
       </a>
     </td>
   </tr>
